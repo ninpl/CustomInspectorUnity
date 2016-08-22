@@ -2,4 +2,4 @@
 
 Test custom inspector.
 
-![preview](https://github.com/lPinchol/CustomInspectorUnity/tree/master/Rec/preview.gif "Preview")
+![preview](https://github.com/lPinchol/CustomInspectorUnity/blob/master/Rec/preview.gif "Preview")
