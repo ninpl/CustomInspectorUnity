@@ -9,6 +9,7 @@ using UnityEngine;
 
 namespace MoonPincho
 {
+#if UNITY_5_4
     internal class EndNameEdit : EndNameEditAction
     {
         #region Imprementacion abstracta de miembros en EndNameEditAction
@@ -60,4 +61,5 @@ namespace MoonPincho
             }
         }
     }
+#endif
 }

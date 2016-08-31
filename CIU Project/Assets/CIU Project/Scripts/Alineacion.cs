@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace MoonPincho.Alineacion
 {
+#if UNITY_5_4
     [System.Serializable]
     public class Alineacion
     {
@@ -17,4 +18,5 @@ namespace MoonPincho.Alineacion
         /// </summary>
         public Color ColorFondo = Color.grey;
     }
+#endif
 }

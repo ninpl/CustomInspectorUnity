@@ -6,6 +6,7 @@ using UnityEditor;
 
 namespace MoonPincho.Alineacion.Editors
 {
+#if UNITY_5_4
     [CustomEditor(typeof(AlineacionDataBase))]
     public class CustomAlineacionDatabaseInspector : Editor
     {
@@ -134,4 +135,5 @@ namespace MoonPincho.Alineacion.Editors
             db.alineaciones.RemoveAt(index);
         }
     }
+#endif
 }
