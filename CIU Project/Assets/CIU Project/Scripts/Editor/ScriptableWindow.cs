@@ -12,7 +12,7 @@ namespace MoonPincho
 #if UNITY_5_4
     internal class EndNameEdit : EndNameEditAction
     {
-        #region Imprementacion abstracta de miembros en EndNameEditAction
+        #region Implementacion abstracta de miembros en EndNameEditAction
         public override void Action(int instanceId, string pathName, string resourceFile)
         {
             AssetDatabase.CreateAsset(EditorUtility.InstanceIDToObject(instanceId), AssetDatabase.GenerateUniqueAssetPath(pathName));
