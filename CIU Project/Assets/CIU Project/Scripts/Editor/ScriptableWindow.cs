@@ -1,4 +1,4 @@
-﻿/// ScriptableWindow.cs Agosto 22/2016 MoonPincho
+﻿/// ScriptableWindow.cs Enero 6/2018 Antonio Moon
 /// 
 
 using System;
@@ -9,7 +9,7 @@ using UnityEngine;
 
 namespace MoonPincho
 {
-#if UNITY_5_4
+
     internal class EndNameEdit : EndNameEditAction
     {
         #region Implementacion abstracta de miembros en EndNameEditAction
@@ -61,5 +61,4 @@ namespace MoonPincho
             }
         }
     }
-#endif
 }

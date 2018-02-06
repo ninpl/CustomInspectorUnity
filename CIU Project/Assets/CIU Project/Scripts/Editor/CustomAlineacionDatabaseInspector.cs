@@ -1,4 +1,4 @@
-﻿/// CustomAlineacionDatabaseInspector.cs Agosto 22/2016 MoonPincho
+﻿/// CustomAlineacionDatabaseInspector.cs Enero 6/2018 Antonio Moon
 /// 
 
 using UnityEngine;
@@ -6,7 +6,6 @@ using UnityEditor;
 
 namespace MoonPincho.Alineacion.Editors
 {
-#if UNITY_5_4
     [CustomEditor(typeof(AlineacionDataBase))]
     public class CustomAlineacionDatabaseInspector : Editor
     {
@@ -135,5 +134,4 @@ namespace MoonPincho.Alineacion.Editors
             db.alineaciones.RemoveAt(index);
         }
     }
-#endif
 }

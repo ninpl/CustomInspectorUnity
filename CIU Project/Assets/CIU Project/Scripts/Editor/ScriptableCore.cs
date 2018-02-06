@@ -1,4 +1,4 @@
-﻿/// ScriptableCore.cs Agosto 22/2016 MoonPincho
+﻿/// ScriptableCore.cs Enero 6/2018 Antonio Moon
 /// 
 
 using System;
@@ -10,7 +10,6 @@ using UnityEngine;
 
 namespace MoonPincho
 {
-#if UNITY_5_4
     /// <summary>
     /// Helper class para instanciar ScriptableObjects.
     /// </summary>
@@ -42,5 +41,4 @@ namespace MoonPincho
             return Assembly.Load(new AssemblyName("Assembly-CSharp"));
         }
     }
-#endif
 }

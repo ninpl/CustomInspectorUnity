@@ -1,11 +1,10 @@
-﻿/// Alineacion.cs Agosto 22/2016 MoonPincho
+﻿/// Alineacion.cs Enero 6/2018 Antonio Moon
 /// 
 
 using UnityEngine;
 
 namespace MoonPincho.Alineacion
 {
-#if UNITY_5_4
     [System.Serializable]
     public class Alineacion
     {
@@ -18,5 +17,4 @@ namespace MoonPincho.Alineacion
         /// </summary>
         public Color ColorFondo = Color.grey;
     }
-#endif
 }
