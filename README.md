@@ -71,4 +71,3 @@ The project is now maintained by [Moon Antonio](https://github.com/moonantonio).
 > [moonantonio.github.io](https://moonantonio.github.io/) &nbsp;&middot;&nbsp;
 > GitHub [@moonantonio](https://github.com/moonantonio) &nbsp;&middot;&nbsp;
 > Twitter [@AntonioMoonNull](https://twitter.com/AntonioMoonNull)
-
