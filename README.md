@@ -37,7 +37,7 @@
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
      
-* **Inspector** — This project contains information on how to serialize editor variables and use them in a new custom inspector.
+This project contains information on how to serialize editor variables and use them in a new custom inspector. From adding a CustomEditor attribute, to obtaining the object as an instance to access its properties. Representations of base and specific types, along with buttons, lists and other things.
 
 ## How To Use
 --------------------
@@ -51,7 +51,7 @@ git clone https://github.com/moonantonio/CustomInspectorUnity.git
 ## Download
 --------------------
 
-You can [download](https://github.com/moonantonio/CustomInspectorUnity/releases) the latest installable version of **CustomInspectorUnity**.
+You can [download](https://github.com/moonantonio/CustomInspectorUnity/releases/tag/v0.0.1) the latest installable version of **CustomInspectorUnity**.
   
 ## Contributors
 --------------------
