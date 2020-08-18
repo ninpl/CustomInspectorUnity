@@ -34,7 +34,7 @@
 ## About The Project
 --------------------
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+<img src="https://github.com/moonantonio/CustomInspectorUnity/blob/master/res/InfoLateral.png?raw=true" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
      
 This project contains information on how to serialize editor variables and use them in a new custom inspector. From adding a CustomEditor attribute, to obtaining the object as an instance to access its properties. Representations of base and specific types, along with buttons, lists and other things.
