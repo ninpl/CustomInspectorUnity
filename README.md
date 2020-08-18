@@ -32,7 +32,6 @@
 <p align="center"><em>The example above was created Custom Inspector. Check it out at <a href="https://docs.unity3d.com/es/current/Manual/editor-CustomEditors.html/slate">unity.doc</a>.</em></p>
 
 ## About The Project
---------------------
 
 <img src="https://github.com/moonantonio/CustomInspectorUnity/blob/master/res/InfoLateral.png?raw=true" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
@@ -40,7 +39,6 @@
 This project contains information on how to serialize editor variables and use them in a new custom inspector. From adding a CustomEditor attribute, to obtaining the object as an instance to access its properties. Representations of base and specific types, along with buttons, lists and other things.
 
 ## How To Use
---------------------
 
 * **Init** — Clone the repository in the location you want. Open the project with Unity and create a scene. Search Database/AlineacionDatabase and and look at the inspector.
 
@@ -49,12 +47,10 @@ git clone https://github.com/moonantonio/CustomInspectorUnity.git
 ```
   
 ## Download
---------------------
 
 You can [download](https://github.com/moonantonio/CustomInspectorUnity/releases/tag/v0.0.1) the latest installable version of **CustomInspectorUnity**.
   
 ## Contributors
---------------------
 
 The project is now maintained by [Moon Antonio](https://github.com/moonantonio).
 
@@ -68,7 +64,6 @@ The project is now maintained by [Moon Antonio](https://github.com/moonantonio).
 
 
 ## License
---------------------
 [Apache](https://github.com/moonantonio/CustomInspectorUnity/blob/master/LICENSE)
 
 ---
